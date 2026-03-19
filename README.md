@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 19.03.2026
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -47,21 +47,22 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
-
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1320" height="722" alt="11" src="https://github.com/user-attachments/assets/dc39f837-d590-4fd3-bc08-34d5413b3ec3" />
+
+<img width="1335" height="742" alt="22" src="https://github.com/user-attachments/assets/a65b0197-9821-44d4-a274-31eec74ce197" />
+
+
+<img width="1441" height="800" alt="33" src="https://github.com/user-attachments/assets/4364efdd-d40c-4375-af5d-bf770ffde09e" />
+
+
+<img width="1367" height="773" alt="44" src="https://github.com/user-attachments/assets/af7f3595-5b7b-4791-9db9-6dfdfead4db4" />
+
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/465fab99-7205-405a-861c-61ace2044320" />
+
+### Name: MAGESHWARAN .P
+### Register Number: 212225230161
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
